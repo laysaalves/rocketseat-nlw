@@ -12,6 +12,7 @@
 
 <p align="center">
   <img alt="mockup do projeto" width="350px" src="./.github/mockup.png" />
+  <img alt="mockup do projeto" width="350px" src="./.github/mockup2.png" />
 <p>
 
 ---
