@@ -1,7 +1,7 @@
 <p align="center">
   <a href="#Introdcutione">Introdcution</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;;
-  <a href="#Getting-Started">Run the app</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;;
+  <a href="#Getting-Started">Run the app</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Layout">Layout in Figma</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#License">License</a>
 </p>
