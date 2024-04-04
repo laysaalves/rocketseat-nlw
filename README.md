@@ -10,6 +10,10 @@
   <a href="#license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
+<p align="center">
+  <img alt="mockup do projeto" width="650px" src="./.github/mockup.png" />
+<p>
+
 ---
 ## 📙 Introduction
 
