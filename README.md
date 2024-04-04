@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="#introdcutione">Introdcution</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#introduction">Introdcution</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#getting-started">Run the app</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#layout">Layout in Figma</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-## 📙 Introdcution
+## 📙 Introduction
 
 A project I coded at NLW Unite to improve my skills and acquire new knowledge in mobile development with React Native. For the first time, I made a connection with the backend, it was amazing! Thanks Rocketseat!
 
