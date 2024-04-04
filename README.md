@@ -24,6 +24,9 @@ A project I coded at NLW Unite to improve my skills and acquire new knowledge in
 
 -  [Node.js](https://nodejs.org/en/docs/)
 -  [SQLite](https://www.sqlite.org/docs.html/)
+-  [React Native](http://facebook.github.io/react-native/)
+-  [Expo](https://expo.io/)
+-  [axios](https://github.com/axios/axios)
 
 ---
 ## 🚦 Getting Started
