@@ -7,11 +7,12 @@ type Props = {
 }
 
 export default function QRCode({ value, size }: Props) {
- return 
+ return (
  <QRCodeSvg 
     value={value} 
     size={size} 
     color={colors.white}
     backgroundColor="transparent"
- />
+  />
+ )
 }
