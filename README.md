@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/laysaalves/laysaalves/blob/main/README-PTBR.md">Não fala inglês? Clique aqui para ler em português!</a>
+<a href="https://github.com/laysaalves/rocketseat-nlw/blob/main/README-PTBR.md">Não fala inglês? Clique aqui para ler em português!</a>
 </p>
 
 <p align="center">
