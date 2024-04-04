@@ -1,0 +1,1 @@
+Traduzo tudo jaja
