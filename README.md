@@ -1,3 +1,5 @@
+<a href="https://github.com/laysaalves/laysaalves/blob/main/README-PTBR.md">Não fala inglês? Clique aqui para ler em português!</a>
+
 <p align="center">
   <a href="#introduction">Introduction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
