@@ -1,3 +1,1 @@
-<p align="center">
-  <img alt="mockup do projeto" width="20px" src="./.github/mockup.png" />
-<p>
+<sup><br/>Projeto desenvolvido com a tutoria de [Rodrigo Gonçalves](https://github.com/orodrigogo), durante a [**Next Level Week**](https://rocketseat.com.br/) da [**Rocketseat**](https://www.linkedin.com/school/rocketseat/about/) 💜.</sup>
