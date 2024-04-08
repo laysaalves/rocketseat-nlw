@@ -27,7 +27,9 @@ A project I coded at NLW Unite to improve my skills and acquire new knowledge in
 -  [SQLite](https://www.sqlite.org/docs.html/)
 -  [React Native](http://facebook.github.io/react-native/)
 -  [Expo](https://expo.io/)
--  [axios](https://github.com/axios/axios)
+-  [Axios](https://github.com/axios/axios)
+-  [NativeWind](https://www.nativewind.dev/)
+-  [Prisma ORM](https://www.prisma.io/)
 
 ---
 ## 🚦 Getting Started
