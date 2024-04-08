@@ -30,6 +30,7 @@ A project I coded at NLW Unite to improve my skills and acquire new knowledge in
 -  [Axios](https://github.com/axios/axios)
 -  [NativeWind](https://www.nativewind.dev/)
 -  [Prisma ORM](https://www.prisma.io/)
+-  [Zod](https://zod.dev/)
 
 ---
 ## 🚦 Getting Started
