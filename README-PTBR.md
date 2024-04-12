@@ -1,4 +1,6 @@
+<p align="center">
 <a href="https://github.com/laysaalves/rocketseat-nlw/blob/main/README.md">Don't speak Portuguese? Click here to view the english version!</a>
+</p>
 
 <p align="center">
   <a href="#introdução">Introdução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
