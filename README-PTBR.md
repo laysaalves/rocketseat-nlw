@@ -18,7 +18,7 @@
 ---
 ## 📙 Introdução
 
-Um projeto que codei na NLW Unite para aprimorar minhas habilidades e adquirir novos conhecimentos em desenvolvimento mobile com React Native. Pela primeira vez, fiz uma conexão com o backend, foi incrível! Valeu, Rocketseat!
+Aplicativo desenvolvido durante a NLW da Rocketseat, com o objetivo de tornar prática a organização de participantes em um evento fictício (podendo ser adaptado para um real), onde o usuário pode requisitar sua credencial, obtê-la na tela do dispositivo móvel e apresentar no dia do evento para liberar a sua entrada com o QR Code único gerado para cada participante. 
 
 ---
 ## 💎 Tecnologias
