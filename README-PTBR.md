@@ -30,7 +30,9 @@ Aplicativo desenvolvido durante a NLW da Rocketseat, com o objetivo de tornar pr
 -  [Axios](https://github.com/axios/axios)
 -  [NativeWind](https://www.nativewind.dev/)
 -  [Prisma ORM](https://www.prisma.io/)
+-  [TypeScript](https://www.typescriptlang.org/)
 -  [Zod](https://zod.dev/)
+-  [Zustand](https://zustand-demo.pmnd.rs/)
 
 ---
 ## 🚦 Aperte o play
