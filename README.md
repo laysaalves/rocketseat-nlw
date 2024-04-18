@@ -30,7 +30,9 @@ Application developed during Rocketseat's NLW, with the aim of making the organi
 -  [Axios](https://github.com/axios/axios)
 -  [NativeWind](https://www.nativewind.dev/)
 -  [Prisma ORM](https://www.prisma.io/)
+-  [TypeScript](https://www.typescriptlang.org/)
 -  [Zod](https://zod.dev/)
+-  [Zustand](https://zustand-demo.pmnd.rs/)
 
 ---
 ## 🚦 Getting Started
