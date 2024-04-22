@@ -60,7 +60,7 @@ Aplicativo desenvolvido durante a NLW da Rocketseat, com o objetivo de tornar pr
   # Instale as dependências do projeto
   $ npm install
   # Inicie o mobile app
-  $ npm start
+  $ npx expo start
 ```
 
 ---
