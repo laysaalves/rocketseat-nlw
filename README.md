@@ -60,7 +60,7 @@ Application developed during Rocketseat's NLW, with the aim of making the organi
   # Installing the project dependencies
   $ npm install
   # Start the mobile app
-  $ npm start
+  $ npx expo start
 ```
 
 ---
