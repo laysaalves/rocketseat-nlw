@@ -16,12 +16,12 @@
 <p>
 
 ---
-## 📙 Introdução
+## Introdução
 
 Aplicativo desenvolvido durante a NLW da Rocketseat, com o objetivo de tornar prática a organização de participantes em um evento fictício (podendo ser adaptado para um real), onde o usuário pode requisitar sua credencial, obtê-la na tela do dispositivo móvel e apresentar no dia do evento para liberar a sua entrada com o QR Code único gerado para cada participante. 
 
 ---
-## 💎 Tecnologias
+## Tecnologias
 
 -  [Node.js](https://nodejs.org/en/docs/)
 -  [SQLite](https://www.sqlite.org/docs.html/)
@@ -35,26 +35,26 @@ Aplicativo desenvolvido durante a NLW da Rocketseat, com o objetivo de tornar pr
 -  [Zustand](https://zustand-demo.pmnd.rs/)
 
 ---
-## 🚦 Aperte o play
+## Aperte o play
 
-### ✅ Pré-requisitos
+### Pré-requisitos
 
   - Você deve ter o **[Node.js](https://nodejs.org/en/)** instalado na sua máquina;
   - Você deve ter o **[Git](https://git-scm.com/)** instalado e configurado no seu computador;
   - Além disso, você **precisa** de um gerenciador de pacotes, eu usei o **[NPM](https://www.npmjs.com/)**;
   - Por fim, você precisa ter **[Expo](https://expo.io/)** instalado globalmente na sua máquina;
 
-### 💻 Instalação
+### Instalação
 
 1. Faça o clone do repositório:
 
-```sh
+```bash
   $ git clone (https://github.com/laysaalves/rocketseat-nlw.git)
 ```
 
 2. Inicie o app:
 
-```sh
+```bash
   # Mobile app
   $ cd mobile
   # Instale as dependências do projeto
@@ -64,14 +64,17 @@ Aplicativo desenvolvido durante a NLW da Rocketseat, com o objetivo de tornar pr
 ```
 
 ---
-## 🎨 Layout
+## Layout
 
 Clique aqui e visualize o [Figma](https://www.figma.com/community/file/1356738933008624188/unite-summit) feito pela [Rocketseat](https://github.com/rocketseat-education).
 
 ---
-## 📃 Licença
+## Licença
 
 Este projeto está sob a licença MIT. Consulte o [LICENSE](LICENSE.md) para obter mais detalhes.
+
+---
+[Voltar ao topo](#introduction)<br>
 
 ---
 <sup><br/>Projeto desenvolvido com a tutoria do [Rodrigo Gonçalves](https://github.com/orodrigogo), durante a [**Next Level Week**](https://rocketseat.com.br/) na [**Rocketseat**](https://www.linkedin.com/school/rocketseat/about/)**💜.</sup>
