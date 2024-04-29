@@ -69,7 +69,7 @@ Application developed during Rocketseat's NLW, with the aim of making the organi
 Click here to open the project layout on [Figma](https://www.figma.com/community/file/1356738933008624188/unite-summit) made by [Rocketseat](https://github.com/rocketseat-education).
 
 ---
-## 📃 License
+## License
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
 
