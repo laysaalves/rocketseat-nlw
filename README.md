@@ -74,7 +74,7 @@ Click here to open the project layout on [Figma](https://www.figma.com/community
 This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
 
 ---
-[Voltar ao topo](#introduction)<br>
+[Back to top](#introduction)<br>
 
 ---
 <sup><br/>Project developed with the tutorship of [Rodrigo Gonçalves](https://github.com/orodrigogo), during the [**Next Level Week**](https://rocketseat.com.br/) of [**Rocketseat**](https://www.linkedin.com/school/rocketseat/about/)**💜.</sup>
