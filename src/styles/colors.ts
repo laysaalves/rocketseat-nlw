@@ -11,7 +11,7 @@ export const colors = {
     400: "#28494E",
     200: "#9FF9CC",
   },
-  pink: {
-    500: "#D87DAB",
+  orange: {
+    500: "#F48F56",
   },
 }

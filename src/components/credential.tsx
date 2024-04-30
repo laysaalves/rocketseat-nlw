@@ -114,7 +114,7 @@ export default function Credential({ onChangeAvatar, onExpandQRCode, data }: Pro
         className="mt-6"
         onPress={onExpandQRCode}
         >
-        <Text className="font-body text-pink-500 text-sm mt-4">
+        <Text className="font-body text-orange-500 text-sm mt-4">
             Ampliar QRCode
         </Text>
         </TouchableOpacity>

@@ -125,7 +125,7 @@ export default function Ticket(){
                        size={300}
                     />
 
-                    <Text className="font-bold text-pink-500 text-base text-center mt-10">
+                    <Text className="font-bold text-orange-500 text-base text-center mt-10">
                         Fechar QRCode
                     </Text>
                     </TouchableOpacity>

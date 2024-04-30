@@ -13,7 +13,7 @@ export function Button({ title, isLoading = false, ...rest }: Props) {
         {...rest}
         >
             <View 
-            className="w-full h-14 bg-pink-500 items-center justify-center rounded-lg">
+            className="w-full h-14 bg-orange-500 items-center justify-center rounded-lg">
                 {isLoading ? (
                     <ActivityIndicator className="text-green-500" />
                 ) : (
