@@ -11,8 +11,7 @@
 </p>
 
 <p align="center">
-  <img alt="mockup do projeto" width="350px" src="./.github/mockup.png" />
-  <img alt="mockup do projeto" width="350px" src="./.github/mockup2.png" />
+  <img alt="capa do projeto" width="650px" src="./.github/image.png" />
 <p>
 
 ---
