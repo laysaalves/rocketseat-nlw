@@ -24,7 +24,7 @@ Application developed during Rocketseat's NLW, with the aim of making the organi
 
 -  [Node.js](https://nodejs.org/en/docs/) for API consumption;
 -  [SQLite](https://www.sqlite.org/docs.html/) as the database;
--  [React Native](http://facebook.github.io/react-native/) with the [Expo](https://expo.io/) framework;
+-  [React Native](http://facebook.github.io/react-native/) with the [Expo](https://expo.io/);
 -  [Axios](https://github.com/axios/axios) for communication with the API;
 -  [NativeWind](https://www.nativewind.dev/) to style the components;
 -  [Prisma](https://www.prisma.io/) as the ORM for the database;
