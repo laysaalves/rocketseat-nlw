@@ -22,16 +22,15 @@ Aplicativo desenvolvido durante a NLW da Rocketseat, com o objetivo de tornar pr
 ---
 ## Tecnologias
 
--  [Node.js](https://nodejs.org/en/docs/)
--  [SQLite](https://www.sqlite.org/docs.html/)
--  [React Native](http://facebook.github.io/react-native/)
--  [Expo](https://expo.io/)
--  [Axios](https://github.com/axios/axios)
--  [NativeWind](https://www.nativewind.dev/)
--  [Prisma ORM](https://www.prisma.io/)
--  [TypeScript](https://www.typescriptlang.org/)
--  [Zod](https://zod.dev/)
--  [Zustand](https://zustand-demo.pmnd.rs/)
+-  [Node.js](https://nodejs.org/en/docs/) para consumir a API;
+-  [SQLite](https://www.sqlite.org/docs.html/) como banco de ados;
+-  [React Native](http://facebook.github.io/react-native/) com o [Expo](https://expo.io/);
+-  [Axios](https://github.com/axios/axios) para a comunicação com a API;
+-  [NativeWind](https://www.nativewind.dev/) para estilizar os componentes;
+-  [Prisma](https://www.prisma.io/) como a ORM para o banco de dados;
+-  [TypeScript](https://www.typescriptlang.org/) para tipagem dos dados;
+-  [Zod](https://zod.dev/) para fazer a validação dos dados;
+-  [Zustand](https://zustand-demo.pmnd.rs/) como gerenciador de estado global.
 
 ---
 ## Aperte o play
