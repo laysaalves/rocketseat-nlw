@@ -40,7 +40,7 @@ Aplicativo desenvolvido durante a NLW da Rocketseat, com o objetivo de tornar pr
   - Você deve ter o **[Node.js](https://nodejs.org/en/)** instalado na sua máquina;
   - Você deve ter o **[Git](https://git-scm.com/)** instalado e configurado no seu computador;
   - Além disso, você **precisa** de um gerenciador de pacotes, eu usei o **[NPM](https://www.npmjs.com/)**;
-  - Por fim, você precisa ter **[Expo](https://expo.io/)** instalado globalmente na sua máquina;
+  - Por fim, você precisa ter o **[Expo Go](https://expo.dev/go)** instalado no seu aparelho caso queira visualizar o app diretamente nele.
 
 ### Instalação
 
@@ -59,6 +59,7 @@ Aplicativo desenvolvido durante a NLW da Rocketseat, com o objetivo de tornar pr
   $ npm install
   # Inicie o mobile app
   $ npx expo start
+  # Selecione como quer visualizar o app (iOS ou Android) ou também se quiser diretamente no seu aparelho, é só escanear o QRCode
 ```
 
 ---
