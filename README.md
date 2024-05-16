@@ -40,7 +40,7 @@ Application developed during Rocketseat's NLW, with the aim of making the organi
   - You must have **[Node.js](https://nodejs.org/en/)** installed on your computer;
   - You must have **[Git](https://git-scm.com/)** installed and configured on your computer;
   - Also, you **need** a package manager, the one I used was **[NPM](https://www.npmjs.com/)**;
-  - Finally, you must have **[Expo](https://expo.io/)** installed globally on your machine;
+  - Finally, you must have **[Expo Go](https://expo.dev/go)** installed on your device if you want to view the application directly from it.
 
 ### Installation
 
@@ -59,6 +59,7 @@ Application developed during Rocketseat's NLW, with the aim of making the organi
   $ npm install
   # Start the mobile app
   $ npx expo start
+  # Select where you want to view the app (iOS or Android) or if it's on your own device, scan the QRCode
 ```
 
 ---
